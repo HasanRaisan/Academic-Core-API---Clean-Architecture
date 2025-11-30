@@ -1,4 +1,4 @@
-# Clean Architecture Web API (.NET 9)
+# Clean Architecture Web API - Teacher.Student (.NET 9)
 
 A professional, scalable, and modular **Clean Architecture** implementation using **.NET 9 Web API**. This project follows industry best practices and clean separation of concerns across four main layers:
 
@@ -224,6 +224,17 @@ Infrastructure
 - **Identity with Roles**
 - **SQL Server**
 - **Swagger (API Documentation)**
+
+---
+
+# 🚀 Preview
+
+[Teacher](https://drive.google.com/file/d/1OIByM9fG3ajz5hi1uaUrxP0llN9MLUeZ/view?usp=drive_link)
+[Student](https://drive.google.com/file/d/1Crs64wLNu_1ZUQvTfBZBctesbxTHeH_o/view?usp=drive_link)
+[Department](https://drive.google.com/file/d/1uKxjCVmQKCiqENUY5E05usjkzPVUj4XV/view?usp=drive_link)
+[User](https://drive.google.com/file/d/1LRVwtb4gYS_sLcNURkv_6HMOPC1WowRp/view?usp=drive_links)
+[All](https://drive.google.com/uc?id=11oSxx-IG9x-xRLXwedsyOGnnwcGvqR8s)
+[Schemas](https://drive.google.com/file/d/1daavdHqeukgJ4IHisGX_TcLpLpFs8tBA/view?usp=drive_link)
 
 ---
 

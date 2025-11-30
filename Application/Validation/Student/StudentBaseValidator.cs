@@ -20,7 +20,7 @@ namespace Application.Validation.Student
                 .InclusiveBetween(1, 120).WithMessage("Age must be between 1 nnd 120.");
 
             RuleFor(s => s.Grade)
-                .InclusiveBetween(1, 100).WithMessage("Grade must be between 1 and 12.");
+                .InclusiveBetween(1, 100).WithMessage("Grade must be between 1 and 100.");
         }
     }
 }
