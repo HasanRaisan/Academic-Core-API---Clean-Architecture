@@ -10,6 +10,7 @@
         NotFound = 2,
         Conflict = 3,
         InternalError = 4,
-        NoChangesDetected = 5
+        NoChangesDetected = 5,
+        DatabaseError = 6, // we must check database error type in try..catch 
     }
 }
