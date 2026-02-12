@@ -1,4 +1,4 @@
-#Academic Core API - Clean Architecture (.NET 9)
+# Academic Core API - Clean Architecture (.NET 9)
 
 A professional, scalable, and modular **Clean Architecture** implementation using **.NET 9 Web API**. This project follows industry best practices and clean separation of concerns across four main layers:
 
